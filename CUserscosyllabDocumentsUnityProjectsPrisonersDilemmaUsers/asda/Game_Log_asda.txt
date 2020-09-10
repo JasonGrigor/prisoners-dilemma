@@ -1,0 +1,20 @@
+=============== Game initialized ================
+
+4.901424 - UnassignedReferenceException: The variable setupCanvas of VideoCaptureExample has not been assigned.
+You probably need to assign the setupCanvas variable of the VideoCaptureExample script in the inspector.
+4.901424 - Game Started!
+
+4.901424 - Order of the Opponents will be: 
+4.901424 - 1. Always Cooperate
+4.901424 - 2. Always Betray 
+4.901424 - 3. Tif-For-Tat
+4.901424 - 4. Pavlov
+4.901424 - 5. Random Pavlov
+4.901424 - Opponent is Always Cooperate
+
+7.05509 - Round: 1
+7.05509 - UnassignedReferenceException: The variable m_Texture of RawImage has not been assigned.
+You probably need to assign the m_Texture variable of the RawImage script in the inspector.
+8.049092 - Player COOPERATED
+8.049092 - Opponent COOPERATED
+

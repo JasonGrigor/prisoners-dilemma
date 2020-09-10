@@ -1,0 +1,5 @@
+"Prisoner's Dilemma" is an application for academic research purposes, created at the CoSyLLab research laboratory at the Dept of Digital Systems, Univ. of Piraeus, by Iason Grigoropoulos under the supervision of professor Simeon Retalis, in collaboration with the  Department of Psychiatry, "Eginition" Hospital, National and Kapodistrian University of Athens, Athens, Greece led by professor C. Papageorgiou.
+
+"Prisoner's Dilemma" requires access to your computer's Web Camera and hard drive write rights. 
+
+By clicking "Next" and installing this application in your computer you grant access to it to use your Web Camera in order to record videos and store them in your hard drive. Take note that this may result in significant free disk space reduction. To avoid that from happening, please monitor the video files stored in your drive regularly, and delete the ones that are unnecessary. 
